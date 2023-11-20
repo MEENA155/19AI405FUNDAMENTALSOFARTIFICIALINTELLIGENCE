@@ -1,5 +1,4 @@
-# 19AI405 FUNDAMENTALS OF ARTIFICIALINTELLIGENCE 
-# Laboratory Experiments
+
 ## ExpNo 1 : Implement Depth First Search Traversal of a Graph
 ### Name: MEENA S
 ### Register Number: 212221240028
